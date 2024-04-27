@@ -1,6 +1,6 @@
 streamlit
 nltk
 pickle
-PorterStemmer
-stopwords
+from nltk.stem.porter import PorterStemmer
+from nltk.corpus import stopwords
 sklearn
