@@ -1,0 +1,6 @@
+streamlt
+nltk
+pickle
+PorterStemmer
+stopwords
+sklearn
